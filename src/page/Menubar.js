@@ -6,7 +6,7 @@ const Menubar = () => {
         <div>
              <Navbar  variant="danger" className="p-3 background_color " fixed="top">
                 <Container className="">
-                    <Navbar.Brand as={NavLink} to='/home' className='fs-1 text-dark'>Helo World</Navbar.Brand>
+                    <Navbar.Brand as={NavLink} to='/home' className='fs-1 text-dark'>Etarion</Navbar.Brand>
                     <Nav className="ms-auto">
                     <Nav.Link as={NavLink}  to="/" className="text-dark fst-bold pt-3 px-4">
                    English

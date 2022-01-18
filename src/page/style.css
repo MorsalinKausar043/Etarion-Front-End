@@ -27,6 +27,7 @@
     background-position: center;
     background-size: cover;
     max-width: 100%;
+    clip-path: polygon(50% 0, 100% 0, 100% 78%, 33% 100%, 25% 100%, 0 76%, 0 0);
 }
   .margin_top{
     margin-top: 257px;
