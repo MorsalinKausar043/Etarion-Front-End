@@ -1,0 +1,168 @@
+/* ---------------------------------------------Menubar css --------------------------------- */
+.background_color{
+  /* background: linear-gradient(181.66deg, #FFEE32 29.97%, #FFD100 97.03%); */
+  background-color: #ffee32;
+}
+.btn_color{
+  border: 1px solid black;
+  background-color: #ffee32;
+  color: black ;
+  font-weight: bold;
+}
+.btn_color:hover{
+  border: 1px solid green;
+  background-color: black;
+  color: #FFD100
+}
+
+
+  /* -----------------------------------------Home css-------------------------------------------- */
+
+  .home_background {
+    /* background-image: url("https://cdn.wallpapersafari.com/20/37/q0bD4H.jpg"); */
+    background: linear-gradient(181.66deg, #FFEE32 29.97%, #FFD100 97.03%);
+    margin-top: 103px;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+}
+  .margin_top{
+    margin-top: 257px;
+  }
+  .img_background {
+    margin-top: 103px;
+    border-radius: 100%;
+}
+ 
+
+
+  /* ------------------------------------foodPicture-css------------------------------------------------- */
+
+  
+  .marginTop{
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 800px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 7%;
+  }
+  .circle_rounded {
+    margin-top: 106px;
+    width: 250px;
+    height: 250px;
+    margin-left: 925px;
+    border-radius: 50%;
+    color: darkorchid;
+    padding: 61px;
+}
+
+    /* --------------------------------------City-Picture css---------------------------------------- */
+    .marginTup{
+      margin-top: 110px;
+    }
+
+    
+/*----------------------------------------about- service css -------------------------------------- */
+
+.bg {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUG5_vrCbhGnCF-xtqlYDRIJIEhqGH79cyaR-7gbJHazCgJ8Gxz4i9EgAwVVVdBd42QO4&usqp=CAU");
+  background-repeat: no-repeat;
+  background-position: "center";
+  
+  padding: 1px;
+  height: 200px;
+  width: 237px;
+}
+.icon {
+  font-size: 61px;
+  text-align: left;
+  margin-left: 104px;
+  display: block;
+  margin-top: 37px;
+    color: red;
+  margin-left: 79px;
+ 
+}
+.circle {
+  margin-top: 112px;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  padding-top: 112px;
+  margin-bottom: 59px;
+  margin-left: -58px;
+  color: #000000;
+  font-size: 34px;
+  padding-left: 42px;
+}
+
+
+/* ---------------------------------------------------PatnerArea css------------------------------------ */
+.background-image{
+  background-image: url("https://cdn.sellerapp.com/img/website-og/become-a-partner.jpg");
+  height: 650px;
+  background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   max-width: 100%;
+   margin-top: 50px;
+
+}
+/* 
+@media only screen and (max-width: 600px) {
+  .background-image {
+    background-color: lightblue;
+  }
+} */
+
+.border-color{
+    border-left: 2px solid rgb(36, 5, 150);
+    border-bottom: 2px solid rgb(180, 9, 80);
+    padding: 5%;
+    border-radius: 30%;
+}
+.opacityBackground{
+  margin-top: 300px;
+  text-align: center;
+  padding-top: 400px;
+  color: orange;
+  font-size: italic;
+
+}
+
+
+
+
+/* ---------------------------------------------SimpleService--------------------------------------------- */
+.roundud{
+    border-right: 20px solid rgb(12, 3, 95);
+    border-left: 20px solid rgb(4, 59, 4);
+    border-radius: 30%;
+}
+.imgWidth {
+    max-width: 46%;
+    height: auto;
+    display: inline-block;
+}
+.widthTop{
+    margin-top: 150px;
+}
+
+.circles {
+  margin-top: 100px;
+  width: 250px;
+  height: 250px;
+  margin-left: 800px;
+  border-radius: 50%;
+  padding-top: 110px;
+  color: darkorchid;
+  padding: 88px;
+}
+/* ---------------------------------------------foother css --------------------------------- */
+/* 1 */
+/* 2 */
+/* 3 */
